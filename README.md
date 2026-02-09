@@ -1,1 +1,2 @@
-# GROCERY-SHOP-MANAGEMENT-SYSTEM
+# Grocery-Management-Sys
+The Project
